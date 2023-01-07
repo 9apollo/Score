@@ -1,0 +1,33 @@
+
+
+
+body {
+	background-color:wheat;
+}
+
+
+
+.line1 {
+	background-image:url(gamot.jpeg);
+	font-size:170;
+	height:200;
+}
+
+
+.male {
+	font-size:80;
+}
+
+.female {
+	font-size:80;
+}
+
+
+.border {
+	background-color:lightblue;
+}
+
+.border2 {
+	background-color:lightpink;
+}
+
